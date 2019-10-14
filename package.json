@@ -1,0 +1,11 @@
+{
+  "name": "bootcampfase02modulo01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fpmacedo/bootcampfase02modulo01.git",
+  "author": "fpmacedo <lipe_macedo@msn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
