@@ -5,7 +5,13 @@
   "repository": "https://github.com/fpmacedo/bootcampfase02modulo01.git",
   "author": "fpmacedo <lipe_macedo@msn.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
   }
 }
